@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/PVsOenix/static/css/main.4eb8d82e.css",
+    "main.js": "/PVsOenix/static/js/main.9a279967.js",
+    "static/media/photo1656018028 1.png": "/PVsOenix/static/media/photo1656018028 1.f36e0362b12b918dcbaa.png",
+    "static/media/raphael-cruz-IwY-27ceRCA-unsplash 1.png": "/PVsOenix/static/media/raphael-cruz-IwY-27ceRCA-unsplash 1.73433464471e0b90173f.png",
+    "static/media/solar model.svg": "/PVsOenix/static/media/solar model.748fa8a09b02b501d29594272493512d.svg",
+    "static/media/photo1656496318.jpeg": "/PVsOenix/static/media/photo1656496318.9a09d46c612d562df28e.jpeg",
+    "static/media/equivalent PV.svg": "/PVsOenix/static/media/equivalent PV.678c2a8bf3e05af9e0b2e9596fc769a8.svg",
+    "static/media/photo1656496370.jpeg": "/PVsOenix/static/media/photo1656496370.6b1c5d84e4f7dc4b462e.jpeg",
+    "static/media/logo.png": "/PVsOenix/static/media/logo.97ac04e003eeba9127cf.png",
+    "static/media/photo1656496394.jpeg": "/PVsOenix/static/media/photo1656496394.dfdf897e07eba4c64ce3.jpeg",
+    "static/media/milad-fakurian-aWu6mtrJBx0-unsplash.jpg": "/PVsOenix/static/media/milad-fakurian-aWu6mtrJBx0-unsplash.6605497324e471771251.jpg",
+    "static/media/five para.svg": "/PVsOenix/static/media/five para.a6867ca3021be5766d945dc5540ff865.svg",
+    "static/media/four para.svg": "/PVsOenix/static/media/four para.cc794cce74dde35fecf8a8e3cc580653.svg",
+    "static/media/BUET_LOGO 1.png": "/PVsOenix/static/media/BUET_LOGO 1.49ae57944d46c3daf5f6.png",
+    "static/media/three para.svg": "/PVsOenix/static/media/three para.d18afcee4db302059e0f4456c07479ef.svg",
+    "static/media/redirectingSvg.svg": "/PVsOenix/static/media/redirectingSvg.b0d5e36dba86598b885789b13688232f.svg",
+    "static/media/contact_svg.svg": "/PVsOenix/static/media/contact_svg.9bbdc5fb09590d12ad7a1374d7855e6a.svg",
+    "static/media/creativity-svgrepo-com 1.svg": "/PVsOenix/static/media/creativity-svgrepo-com 1.25c3cdd0ba149a5bd3c7e8142c045cc9.svg",
+    "static/media/business-deal-svgrepo-com 1.svg": "/PVsOenix/static/media/business-deal-svgrepo-com 1.49d3c11e09b9339daec5d04f6dba6f79.svg",
+    "static/media/service-svgrepo-com 1.svg": "/PVsOenix/static/media/service-svgrepo-com 1.c811989203a0053730f3e45803c37a16.svg",
+    "static/media/leadership-svgrepo-com 1.svg": "/PVsOenix/static/media/leadership-svgrepo-com 1.bfaa3dacd9a2720bea7edf6ef8d66828.svg",
+    "static/media/quality-medal-svgrepo-com 1.svg": "/PVsOenix/static/media/quality-medal-svgrepo-com 1.ab0e84b39e0c735fab2d8542774d96b1.svg",
+    "index.html": "/PVsOenix/index.html",
+    "static/media/arrow.svg": "/PVsOenix/static/media/arrow.b14b234455c3836c7ddc5b4392c9cc12.svg",
+    "main.4eb8d82e.css.map": "/PVsOenix/static/css/main.4eb8d82e.css.map",
+    "main.9a279967.js.map": "/PVsOenix/static/js/main.9a279967.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4eb8d82e.css",
+    "static/js/main.9a279967.js"
+  ]
+}
